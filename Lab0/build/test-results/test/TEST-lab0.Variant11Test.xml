@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant11Test" tests="31" skipped="0" failures="0" errors="0" timestamp="2023-10-01T21:50:03" hostname="DESKTOP-MFEATBC" time="0.229">
+  <properties/>
+  <testcase name="arrayTest[0]([D@4d1bf319, 2, [D@6f53b8a)" classname="lab0.Variant11Test" time="0.034"/>
+  <testcase name="arrayTest[1]([D@338fc1d8, 3, [D@4722ef0c)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="arrayTest[2]([D@55cb6996, 2, [D@1807e3f6)" classname="lab0.Variant11Test" time="0.003"/>
+  <testcase name="booleanTest[0](5, 3, true)" classname="lab0.Variant11Test" time="0.006"/>
+  <testcase name="booleanTest[1](0, 1, false)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="booleanTest[2](-3, 24, false)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="forTest[0](3, 50)" classname="lab0.Variant11Test" time="0.007"/>
+  <testcase name="forTest[1](7, 728)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="forTest[2](12, 3818)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="ifTest[0](2, 2, [I@30f842ca)" classname="lab0.Variant11Test" time="0.01"/>
+  <testcase name="ifTest[1](0, 4, [I@50378a4)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="ifTest[2](-3, -11, [I@79207381)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="integerTest[0](100, [I@1a4927d6)" classname="lab0.Variant11Test" time="0.011"/>
+  <testcase name="integerTest[1](123, [I@624ea235)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="integerTest[2](139, [I@782859e)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="matrixTest[0]([[I@34bde49d, [[I@1b1cfb87)" classname="lab0.Variant11Test" time="0.014"/>
+  <testcase name="matrixTest[1]([[I@5c86a017, [[I@5c7bfdc1)" classname="lab0.Variant11Test" time="0.0"/>
+  <testcase name="minMaxTest[0]([I@7bbc8656, 2)" classname="lab0.Variant11Test" time="0.01"/>
+  <testcase name="minMaxTest[1]([I@46d59067, 1)" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="minMaxTest[2]([I@14dd7b39, 2)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="negativeIntegerTest" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="negativeWhileTest[0](0)" classname="lab0.Variant11Test" time="0.003"/>
+  <testcase name="negativeWhileTest[1](-2)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="negativeWhileTest[2](-1)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="switchNegativeTest" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="switchTest[0](-1, 1, NORTH)" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="switchTest[1](-1, 2, EAST)" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="whileTest[0](10, [I@3e0e1046)" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="whileTest[1](12, [I@7dc19a70)" classname="lab0.Variant11Test" time="0.002"/>
+  <testcase name="whileTest[2](22, [I@1e4f4a5c)" classname="lab0.Variant11Test" time="0.001"/>
+  <testcase name="whileTest[3](125, [I@465232e9)" classname="lab0.Variant11Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
