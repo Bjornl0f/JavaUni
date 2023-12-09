@@ -1,0 +1,8 @@
+Book name: Introduction to Programming, publish year: 2000, author name: John Doe, author birthdate: 1980-05-15
+Book name: Data Structures and Algorithms, publish year: 2005, author name: John Doe, author birthdate: 1980-05-15
+Book name: Java Programming, publish year: 2010, author name: Jane Smith, author birthdate: 1975-08-20
+Book name: Web Development Basics, publish year: 2015, author name: Jane Smith, author birthdate: 1975-08-20
+Book name: Python Programming, publish year: 2012, author name: Alice Johnson, author birthdate: 1990-03-10
+Book name: Machine Learning Basics, publish year: 2017, author name: Alice Johnson, author birthdate: 1990-03-10
+Book name: JavaScript Fundamentals, publish year: 2013, author name: Bob Miller, author birthdate: 1985-07-05
+Book name: Mobile App Development, publish year: 2019, author name: Bob Miller, author birthdate: 1985-07-05
